@@ -1,0 +1,1 @@
+An anonymous chatroom. The entry point of the application features the ability to create and login into an account. The acount information and chatroom msgs are handled through PHP and stored in a MySQL database.
